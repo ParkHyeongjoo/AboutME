@@ -1,49 +1,53 @@
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Louis's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=JParkBro's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
+</p>
 
-<div align='center'> 🖥열심히 현업에서 달리고 있는 신입 백엔드 개발자입니다.</div>
+<div align='center'> 🖥열심히 공부하고 있는 신입 풀스택 개발자입니다.</div>
 <br>
-<div align='center'> Email : yukina1418@gmail.com</div>
-<div align='center'> Blog : <a href="https://velog.io/@yukina1418">https://velog.io/@yukina1418</a></div>
+<div align='center'> Email : hyeongjoopark0324@gmail.com</div>
+<div align='center'> Blog : <a href="https://velog.io/@j_park_bro">https://velog.io/@j_park_bro</a></div>
 <br>
+<div align = "center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+ </div>
 <p align="center">
-🍚&nbsp&nbsp&nbsplanguages
-  </p>
-<p align="center">
+<img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/java-icon.svg">
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
-<img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/ts-icon.svg">
-  </p>
- <p align="center">
-🍱&nbsp&nbspDatabase
-  </p>
+</p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?20160706123547">
-&nbsp
-&nbsp
-&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png">
-  </p> 
-  
-<p align="center">
-🥘 &nbsp&nbspAPIs
-  </p>
+</p> 
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/restapi-icon.svg">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/graphql-icon.svg">
-<img alt= "icon" wide="60" height="60" src ="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a67daec196.svg">
-  </p>
+<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/react-icon.svg">
+</p>
 <p align="center">
-🍰 &nbsp&nbspdeploy
-  </p>
-<p align="center">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/docker-icon.svg">
-<img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/kubernetes-icon.svg">
-<img alt= "icon" wide="60" height="60" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-570w.png">
-  </p>
+<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/github-icon.svg">
+</p>
 <br>
 <br>
 <p align="center">
@@ -52,4 +56,4 @@
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-  </p>
+</p>
